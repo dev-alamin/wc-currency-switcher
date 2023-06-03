@@ -1,0 +1,15 @@
+{
+    "name": "u910397194/opl-currency-switcher",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "al amin",
+            "email": "a@b.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "geoip2/geoip2": "~2.0"
+    }
+}

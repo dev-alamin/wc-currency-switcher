@@ -1,0 +1,14 @@
+.opl-custom-price {
+    color: #EA7703; /** var( --e-global-color-secondary ); */
+    font-family: "Raleway", Sans-serif;
+    font-size: 45px;
+    font-weight: bold;
+    line-height: 43px;
+}
+
+p.opl-custom-price .price.price-regular {
+    text-decoration: line-through;
+    font-size: 50%;
+    vertical-align: text-top;
+    color: #666;
+}
