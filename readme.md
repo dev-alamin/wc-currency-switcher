@@ -8,6 +8,8 @@ The Currency Switcher Plugin is a WordPress plugin that allows you to display pr
 - Allows the admin to set custom prices for each country through the plugin's options page.
 - Ensures that the WooCommerce backend settings match the selected currency for accurate invoicing.
 
+## Image
+![See in action](./assets/images/wc-currency-switcher-image.png)
 ## Installation
 
 1. Download the plugin files and extract them.
